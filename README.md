@@ -7,6 +7,6 @@ MoCAScriptNCEN.r - the main script which contains all the analyses conducted in 
 
 mocaBaselineSearch.r - lavaan model definitions for the comparisons to the restricted baseline model
 
-mocaEDUFree.r - lavaan model definitions for the partial invariance model in the 'some education' group
+mocaEDUFree.r - lavaan model definition for the partial invariance model in the 'some education' group
 
-mocaNOEDUFree.r - lavaan model definitions for the partial invariance model in the 'no education' group
+mocaNOEDUFree.r - lavaan model definition for the partial invariance model in the 'no education' group
